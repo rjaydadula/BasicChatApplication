@@ -6,6 +6,7 @@ A Reference to Beginners who wants to develop basic chat application.It's a comb
 
 
 Server - It listen's to a specific ip and port
+
 Client - It connects to the Server
 
 
