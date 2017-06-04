@@ -1,4 +1,4 @@
 # Basic Chat Application
 
-
-This is a Reference to those Beginners who want to develop basic chat application
+-Windows Form Application-
+A Reference to Beginners who wants to develop basic chat application
